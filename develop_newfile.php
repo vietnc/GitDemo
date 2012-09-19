@@ -5,4 +5,5 @@
  * and open the template in the editor.
  */
 echo "hello worl!";
+echo "viet add hee";
 ?>
